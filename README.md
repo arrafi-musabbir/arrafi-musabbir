@@ -25,7 +25,7 @@
 <a href="https://fb.com/musabbir.arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musabbir.arrafi" height="30" width="40" /></a>
 <a href="https://instagram.com/musabbir_arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabbir_arrafi" height="30" width="40" /></a>
 <a href="https://medium.com/@musabbir-arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@musabbir-arrafi" height="30" width="40" /></a>
-<a href="discordapp.com/users/709063987962052608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="709063987962052608" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/709063987962052608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="709063987962052608" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I use:</h3>
