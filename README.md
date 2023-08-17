@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://arrafi-musabbir.netlify.app/#projects)
 
-- 📫 How to reach me [email me](musabbir.arrafi@gmail.com) or [discord me](discordapp.com/users/709063987962052608)
+- 📫 How to reach me [email me](musabbir.arrafi@gmail.com) or [discord me](https://discordapp.com/users/709063987962052608)
 
 - 📄 Know about my experiences [resume](https://arrafi-musabbir.netlify.app/uploads/CV_Musabbir_Ahmed.pdf)
 
