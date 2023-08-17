@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrafi-musabbir" alt="arrafi-musabbir" /></a> </p>
 
-<p align="left"> <a href="https://arrafi-musabbir.netlify.app/" target="blank"><img src="https://github.com/arrafi-musabbir/arrafi-musabbir/blob/main/assets/media/portfolio_icon.png" alt="musabbir_arrafi" width="200" height="26"/></a> </p>
+<p align="left"> <a href="https://arrafi-musabbir.netlify.app/" target="blank"><img src="https://github.com/arrafi-musabbir/arrafi-musabbir/blob/main/portfolio_icon.png" alt="musabbir_arrafi" width="200" height="26"/></a> </p>
 
 - 🌱 I’m currently learning **3D computer vision, Deep learning and Deep reinforcement learning**
 
