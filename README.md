@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Musabbir! 😃</h1>
 <p align="center"> <a href="https://arrafi-musabbir.netlify.app/" target="blank"><img src="https://github.com/arrafi-musabbir/arrafi-musabbir/blob/main/portfolio_icon.png" alt="musabbir_arrafi" width="250" /></a> </p>
 <h3 align="center">A deep learning enthusiast focusing on 3D computer vision and deep reinforcement learning</h3>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arrafi-musabbir&show_icons=true&locale=en" height="150"  alt="arrafi-musabbir" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrafi-musabbir&show_icons=true&locale=en&layout=compact" height="150" alt="arrafi-musabbir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arrafi-musabbir&show_icons=true&locale=en" height="150" alt="arrafi-musabbir" />
+  <! -- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrafi-musabbir&show_icons=true&locale=en&layout=compact" height="150" alt="arrafi-musabbir" />
+  <img height="150" src="https://stackoverflow-card.vercel.app/?userID=13520498&theme=light"/>
 </div>
+
+
 
 
 
