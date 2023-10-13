@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musabbir! 😃</h1>
-<p align="center"> <a href="https://musabbir-arrafi.me/" target="blank"><img src="https://github.com/arrafi-musabbir/arrafi-musabbir/blob/main/portfolio_icon.png" alt="musabbir_arrafi" width="250" /></a> </p>
+<!-- <p align="center"> <a href="https://musabbir-arrafi.me/" target="blank"><img src="https://github.com/arrafi-musabbir/arrafi-musabbir/blob/main/portfolio_icon.png" alt="musabbir_arrafi" width="250" /></a> </p> -->
 <h3 align="center">A deep learning enthusiast focusing on 3D computer vision and deep reinforcement learning</h3>
 
 <div align="center">
@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **3D computer vision, Deep learning and Deep reinforcement learning**
 
-- 👨‍💻 All of my projects are available [here](https://musabbir-arrafi.me/#projects)
+- 👨‍💻 Visit my [personal website](https://musabbir-arrafi.me/) to know more about me 
 
 - 📫 How to reach me [email me](musabbir.arrafi@gmail.com) or [discord me](https://discordapp.com/users/709063987962052608)
 
-- 📄 Know about my experiences [resume](https://arrafi-musabbir.netlify.app/uploads/CV_Musabbir_Ahmed.pdf)
+- 📄 Here's my [resume](https://arrafi-musabbir.netlify.app/uploads/CV_Musabbir_Ahmed.pdf)
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
