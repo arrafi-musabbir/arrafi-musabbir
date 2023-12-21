@@ -16,8 +16,6 @@
 
 - 👨‍💻 Visit my [personal website](https://musabbir-arrafi.me/) to know more about me 
 
-- 📫 How to reach me [email me](musabbir.arrafi@gmail.com) or [discord me](https://discordapp.com/users/709063987962052608)
-
 - 📄 Here's my [resume](https://arrafi-musabbir.netlify.app/uploads/CV_Musabbir_Ahmed.pdf)
 
 <h3 align="center">Connect with me on:</h3>
