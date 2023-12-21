@@ -16,7 +16,7 @@
 
 - 👨‍💻 Visit my [personal website](https://musabbir-arrafi.me/) to know more about me 
 
-- 📄 Here's my [resume](https://arrafi-musabbir.netlify.app/uploads/CV_Musabbir_Ahmed.pdf)
+- 📄 Here's my [resume](https://musabbir-arrafi.me/uploads/CV_Musabbir_Ahmed.pdf) if you want to hire me
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
