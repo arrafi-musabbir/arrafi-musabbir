@@ -10,9 +10,9 @@
 
 
 
+- 👨🏻‍🎓 I graduated in Robotics and Mechatronics Engineering
 
-
-- 🌱 I’m currently learning **3D computer vision, Deep learning and Deep reinforcement learning**
+- 🌱 I’m currently learning and exploring various domains and applications of **Computer vision, Deep learning, and Deep reinforcement learning** with a focus on **robotics**
 
 - 👨‍💻 Visit my [personal website](https://musabbir-arrafi.me/) to know more about me 
 
