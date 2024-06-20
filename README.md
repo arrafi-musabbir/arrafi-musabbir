@@ -18,17 +18,17 @@
 
 - 📄 Here's my [resume](https://musabbir-arrafi.me/uploads/CV_Musabbir_Ahmed.pdf) if you want to hire me
 
-<h3 align="center">Connect with me on:</h3>
+<!--<h3 align="center">Connect with me on:</h3>
 <p align="center">
 <a href="https://twitter.com/musabbir_arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musabbir_arrafi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musabbir-arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musabbir-arrafi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13520498/musabbir-arrafi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13520498" height="30" width="40" /></a>
 <a href="https://kaggle.com/musabbirarrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="musabbirarrafi" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/musabbir.arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musabbir.arrafi" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/musabbir.arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musabbir.arrafi" height="30" width="40" /></a> 
 <a href="https://instagram.com/musabbir_arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabbir_arrafi" height="30" width="40" /></a>
 <a href="https://medium.com/@musabbir-arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@musabbir-arrafi" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/709063987962052608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="709063987962052608" height="30" width="40" /></a>
-</p>
+</p> -->
 <h3 align="center">If you wanna thank me</h3>
 <p align="center"> <a href="https://www.buymeacoffee.com/musabbir.arrafi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> </p>
 <!-- <h3 align="left">Languages and Tools I use:</h3>
