@@ -15,10 +15,10 @@
 - 🌱 I’m currently learning and exploring various domains and applications of **Computer vision, Deep learning, and Deep reinforcement learning** with a focus on **robotics**
 
 - 👨‍💻 Visit my [personal website](https://musabbir-arrafi.me/) to know more about me 
-
+<!--
 - 📄 Here's my [resume](https://musabbir-arrafi.me/uploads/CV_Musabbir_Ahmed.pdf) if you want to hire me
 
-<!--<h3 align="center">Connect with me on:</h3>
+<h3 align="center">Connect with me on:</h3>
 <p align="center">
 <a href="https://twitter.com/musabbir_arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musabbir_arrafi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musabbir-arrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musabbir-arrafi" height="30" width="40" /></a>
